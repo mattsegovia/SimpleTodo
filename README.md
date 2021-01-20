@@ -33,7 +33,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
-- Initially setting up Android Studio Envirnment.
+- Initially setting up Android Studio environment.
 - Understanding how to use RecyclerView/Adapter 
 
 ## License
